@@ -1,5 +1,5 @@
 # RM
 Hello students, let us **work**!
-on master branch`
+on master branch
 ## Topics
  Git
