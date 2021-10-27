@@ -1,3 +1,4 @@
+Add all
 Branching
 Revert
 to bude asi vse
