@@ -5,7 +5,7 @@ on master branch
  Git
  Clojure?
 
-```Python
+```python
 def haha():
   variable = int(1)
   return variable
