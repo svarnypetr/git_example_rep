@@ -1,12 +1,9 @@
-# RM
-Hello students, let us **work**!
-on master branch
-## Topics
- Git
- Clojure?
+# Webinář o GitHubu
 
-```python
-def haha():
-  variable = int(1)
-  return variable
-```
+O GitHubu pro úplné začátečníky.
+
+## Témata
+ Git - co je třeba
+ Spolupráce přes GitHub
+ Pokročilejší funkce GitHubu
+ 
