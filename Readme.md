@@ -7,3 +7,4 @@ O GitHubu pro úplné začátečníky.
 * Spolupráce přes GitHub
 * Pokročilejší funkce GitHubu
  
+Test branchingu
